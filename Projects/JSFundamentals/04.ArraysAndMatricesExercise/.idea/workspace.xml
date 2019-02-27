@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/05.ExtractANonDecreasingSubsequenceFromAnArray.js" line="11" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b6b0cc8-2c8b-42d4-a009-a0dfcb454b2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/01_Leap-Year/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/01_Leap-Year/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/02_Simple-Number-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/02_Simple-Number-Validator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/03_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/03_EGN-Validator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/04_Cooking-Numbers/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/04_Cooking-Numbers/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/05_Cards-Generator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/05_Cards-Generator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/06_Greatest-Common-Divisor/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/06_Greatest-Common-Divisor/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/07_Binary-Search/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/07_Binary-Search/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/08_Hailstone-Sequence/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/08_Hailstone-Sequence/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/09_Dot-Product/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/09_Dot-Product/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/10_Factors/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowExercise/10_Factors/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03.FunctionsAndLogicFlowLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/01_Sum-First-Last/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/01_Sum-First-Last/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/02_Even-Position-Element/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/02_Even-Position-Element/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/03_Replace-and-Reverse/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/03_Replace-and-Reverse/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/04_Find-Element/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/04_Find-Element/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/05_Multiple-Sort/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04.ArraysAndMatricesLab/05_Multiple-Sort/solution.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="688078266">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="2999" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="2999" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.PrintEveryNthElementFromAnArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.AddAndRemoveElementsFromArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.RotateArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05.ExtractANonDecreasingSubsequenceFromAnArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.SortAnArrayBy2Criteria.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.MagicMatrices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.DiagonalAttack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="27" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.Orbit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.SpiralMatrix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.PrintAndArrayWithAGivenDelimiter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01.PrintAndArrayWithAGivenDelimiter.js" />
+        <option value="$PROJECT_DIR$/02.PrintEveryNthElementFromAnArray.js" />
+        <option value="$PROJECT_DIR$/03.AddAndRemoveElementsFromArray.js" />
+        <option value="$PROJECT_DIR$/04.RotateArray.js" />
+        <option value="$PROJECT_DIR$/05.ExtractANonDecreasingSubsequenceFromAnArray.js" />
+        <option value="$PROJECT_DIR$/06.SortAnArrayBy2Criteria.js" />
+        <option value="$PROJECT_DIR$/08.SpiralMatrix.js" />
+        <option value="$PROJECT_DIR$/07.MagicMatrices.js" />
+        <option value="$PROJECT_DIR$/09.DiagonalAttack.js" />
+        <option value="$PROJECT_DIR$/10.Orbit.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="04.ArraysAndMatricesExercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.ArraysAndMatricesExercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../05.StringsAndRegexLab" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Georgi\Software University\JSCore\Projects\JSFundamentals\04.ArraysAndMatricesExercise" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.10.Orbit.js">
+    <configuration name="06.SortAnArrayBy2Criteria.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="06.SortAnArrayBy2Criteria.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="07.MagicMatrices.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="07.MagicMatrices.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="08.SpiralMatrix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="08.SpiralMatrix.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="09.DiagonalAttack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="09.DiagonalAttack.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="10.Orbit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="10.Orbit.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.06.SortAnArrayBy2Criteria.js" />
+      <item itemvalue="Node.js.08.SpiralMatrix.js" />
+      <item itemvalue="Node.js.07.MagicMatrices.js" />
+      <item itemvalue="Node.js.09.DiagonalAttack.js" />
+      <item itemvalue="Node.js.10.Orbit.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.10.Orbit.js" />
+        <item itemvalue="Node.js.09.DiagonalAttack.js" />
+        <item itemvalue="Node.js.07.MagicMatrices.js" />
+        <item itemvalue="Node.js.08.SpiralMatrix.js" />
+        <item itemvalue="Node.js.06.SortAnArrayBy2Criteria.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b6b0cc8-2c8b-42d4-a009-a0dfcb454b2d" name="Default Changelist" comment="" />
+      <created>1548806370829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548806370829</updated>
+      <workItem from="1548806372136" duration="59000" />
+      <workItem from="1548871467677" duration="4288000" />
+      <workItem from="1548948337815" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4484000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2767094" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33260393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02.PrintEveryNthElementFromAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.AddAndRemoveElementsFromArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.RotateArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.ExtractANonDecreasingSubsequenceFromAnArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.SortAnArrayBy2Criteria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.MagicMatrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.DiagonalAttack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.SpiralMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PrintAndArrayWithAGivenDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
